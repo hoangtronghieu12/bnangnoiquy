@@ -1,0 +1,70 @@
+*
+{
+    font-size: 10px;
+    margin: 0;
+    padding: 0;
+}
+
+.table
+{
+    display:block;
+    margin: 50px 520px;
+    border:5px blue double;
+    padding: 20px;
+    
+    
+    
+}
+.logo
+{
+    width: 25px;
+    display: inline-block;
+}
+
+
+.a
+{
+    display: inline-block;
+    font-size: 13px;
+}
+.tieude, .tentruong
+{
+    display: inline-block;
+    color:rgb(18, 73, 224);
+    text-align: left;
+    font-size: 15px;
+}
+
+.title 
+{
+    color:#d40c0c;
+    text-align: center;
+    font-size:3rem;
+}
+.trich
+{
+    text-align: center;
+    font-size: 14px;
+    color: rgb(10, 8, 129);
+    font-style: italic;
+}
+li
+{
+    list-style-type: lower-alpha;
+    font-size: 20px;
+}
+.he
+{
+    font-size: 17px;
+}
+.for
+{
+    list-style-type:auto;
+    font-weight: 900;
+}
+.body
+{
+    padding: 20px 10px 11px 20px;
+    color: rgb(7 7 153);
+    text-align: justify;
+}
